@@ -1,0 +1,10 @@
+
+torch               #library for deep learning
+torchvision         # library for vision-related tasks
+tensorflow          # library for deep learning
+matplotlib          # plotting graphs and visualizations
+scikit-learn        # evaluation metrics and data preprocessing
+pandas              # data manipulation and analysis
+numpy               # numerical computations
+pretrainedmodels
+timm
